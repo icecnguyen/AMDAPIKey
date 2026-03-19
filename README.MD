@@ -38,8 +38,9 @@ Lưu ý: mọi thứ phải trùng với trên web
 ## Demo
 
 <p align="center">
-  <img src="screenshots/image (1).png" width="250"/>
-  <img src="screenshots/image (2).png" width="250"/>
+  <img src="screenshots/nhap-key.png" width="250"/>
+  <img src="screenshots/loi-hoac-sai-key.png" width="250"/>
+  <img src="screenshots/thanh-cong.png" width="250"/>
 </p>
 
 ---
